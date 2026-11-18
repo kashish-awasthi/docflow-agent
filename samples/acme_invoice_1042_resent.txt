@@ -1,0 +1,10 @@
+ACME CLOUD SERVICES PVT LTD
+TAX INVOICE (COPY - RESENT)
+Invoice No: ACM-1042
+Invoice Date: 2026-11-10
+Due Date: 2026-11-22
+Bill To: Lotus Retail Pvt Ltd
+Cloud hosting - November    1   18,000.00
+Managed database            1    7,500.00
+Support plan                1    4,500.00
+TOTAL (INR) 30,000.00

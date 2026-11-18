@@ -1,0 +1,19 @@
+ACME CLOUD SERVICES PVT LTD
+GSTIN 29ABCDE1234F1Z5 | Bengaluru
+
+TAX INVOICE
+Invoice No: ACM-1042
+Invoice Date: 2026-11-10
+Due Date: 2026-11-22
+
+Bill To: Lotus Retail Pvt Ltd
+
+Description                     Qty     Amount (INR)
+Cloud hosting - November         1         18,000.00
+Managed database                 1          7,500.00
+Support plan                     1          4,500.00
+
+TOTAL (INR)                                30,000.00
+
+Payment terms: Net 12 days. Late payments attract 1.5% interest per month.
+Bank transfer to HDFC Bank, account name Acme Cloud Services.
